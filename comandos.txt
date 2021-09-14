@@ -79,3 +79,10 @@ Para mesclar todas as alterações presentes no repositório remoto para o diretóri
 git pull
 ___________________
 
+git merge
+O comando git merge é usado para mesclar uma ramificação no ramo ativo. Uso:
+git merge <branch-name>
+___________________
+
+
+
